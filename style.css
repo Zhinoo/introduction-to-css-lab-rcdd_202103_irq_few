@@ -21,6 +21,7 @@ body {
 /* ID selector to select the element with id 'main-header' */
 #main-header {
   /* Your code here! */
+  font-size: 22px; 
   color:red;
 }
 
