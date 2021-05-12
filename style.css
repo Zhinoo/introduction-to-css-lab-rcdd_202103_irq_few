@@ -13,6 +13,10 @@ body {
   /* Your code here! */
   width: 700px;
   color: red;
+  margin: auto
+ font-family: ha
+  background: white;
+  padding: 30px;
 }
 
 /* ID selector to select the element with id 'main-header' */
