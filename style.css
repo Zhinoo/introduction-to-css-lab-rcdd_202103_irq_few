@@ -27,6 +27,7 @@ body {
 
 /* Class selector to select elements containing the class 'perspective-questions' */
 .perspective-questions {
-  font-size: 10px
+  font-size: 10px;
   /* Your code here! */
+  font-style: italic;
 }
